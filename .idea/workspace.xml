@@ -5,12 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="463bd8f5-978a-438e-b0ec-ade82198a49d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/apps/backend/src/users/entities/user.entity.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/backend/src/auth/strategies/jwt.strategy.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/apps/backend/src/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/apps/backend/src/app.module.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/apps/backend/src/auth/auth.controller.ts" beforeDir="false" afterPath="$PROJECT_DIR$/apps/backend/src/auth/auth.controller.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/apps/backend/src/auth/auth.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/apps/backend/src/auth/auth.module.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/apps/backend/src/auth/auth.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/apps/backend/src/auth/auth.service.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/backend/src/auth/dto/create-user.dto.ts" beforeDir="false" afterPath="$PROJECT_DIR$/apps/backend/src/auth/dto/create-user.dto.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pnpm-lock.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pnpm-lock.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,7 +81,11 @@
       <workItem from="1772565505656" duration="2104000" />
       <workItem from="1772597928931" duration="52000" />
       <workItem from="1772650076629" duration="4213000" />
-      <workItem from="1772740233391" duration="2550000" />
+      <workItem from="1772740233391" duration="3465000" />
+      <workItem from="1772823018438" duration="1273000" />
+      <workItem from="1772904248705" duration="4000" />
+      <workItem from="1772904762669" duration="3000" />
+      <workItem from="1772954524270" duration="1914000" />
     </task>
     <servers />
   </component>
